@@ -1,0 +1,5 @@
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\CalculatorSpecFlow\obj\Debug\net9.0\CalculatorSpecFlow.csproj.AssemblyReference.cache
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\CalculatorSpecFlow\obj\Debug\net9.0\CalculatorSpecFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\CalculatorSpecFlow\obj\Debug\net9.0\CalculatorSpecFlow.AssemblyInfoInputs.cache
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\CalculatorSpecFlow\obj\Debug\net9.0\CalculatorSpecFlow.AssemblyInfo.cs
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\CalculatorSpecFlow\obj\Debug\net9.0\CalculatorSpecFlow.csproj.CoreCompileInputs.cache
