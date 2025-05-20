@@ -1,0 +1,5 @@
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\CSVReader\obj\Debug\net6.0\CsvReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\CSVReader\obj\Debug\net6.0\CsvReader.AssemblyInfoInputs.cache
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\CSVReader\obj\Debug\net6.0\CsvReader.AssemblyInfo.cs
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\CSVReader\obj\Debug\net6.0\CsvReader.csproj.CoreCompileInputs.cache
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\CSVReader\obj\Debug\net6.0\CsvReader.csproj.AssemblyReference.cache
