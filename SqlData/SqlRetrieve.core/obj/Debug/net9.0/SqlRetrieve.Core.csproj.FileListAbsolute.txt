@@ -1,0 +1,12 @@
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.Core\obj\Debug\net9.0\SqlRetrieve.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.Core\obj\Debug\net9.0\SqlRetrieve.Core.AssemblyInfoInputs.cache
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.Core\obj\Debug\net9.0\SqlRetrieve.Core.AssemblyInfo.cs
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.Core\obj\Debug\net9.0\SqlRetrieve.Core.csproj.CoreCompileInputs.cache
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.Core\obj\Debug\net9.0\SqlRetrieve.Core.csproj.AssemblyReference.cache
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.Core\bin\Debug\net9.0\SqlRetrieve.Core.deps.json
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.Core\bin\Debug\net9.0\SqlRetrieve.Core.dll
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.Core\bin\Debug\net9.0\SqlRetrieve.Core.pdb
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.Core\obj\Debug\net9.0\SqlRetrieve.Core.dll
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.Core\obj\Debug\net9.0\refint\SqlRetrieve.Core.dll
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.Core\obj\Debug\net9.0\SqlRetrieve.Core.pdb
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.Core\obj\Debug\net9.0\ref\SqlRetrieve.Core.dll
