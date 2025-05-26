@@ -19,8 +19,8 @@ namespace CsvReader.Services
 
         public List<Person> ReadPeople()
         {
-            var path = _config["CsvSettings:FilePath"];
-            var delimiter = _config["CsvSettings:Delimiter"];
+            var path = _config["csvReaderSettings:CsvSettings:FilePath"];
+            var delimiter = _config["csvReaderSettings:CsvSettings:Delimiter"];
 
             using var reader = new StreamReader(path);
             using var csv = new CsvHelper.CsvReader(reader, new CsvConfiguration(CultureInfo.InvariantCulture)

@@ -12,6 +12,10 @@
   <None Include="settings.json">
   <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
   </None>
+  <None Update="Feature\*.feature">
+    <Generator>SpecFlowSingleFileGenerator</Generator>
+	<LastGenOutput>UnifiedFeature.cs</LastGenOutput>
+	</None>
     <PackageReference Include="coverlet.collector" Version="6.0.2" />
     <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.2" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.12.0" />
