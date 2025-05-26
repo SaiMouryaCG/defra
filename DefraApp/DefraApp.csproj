@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\CalculatorSpecFlow\CalculatorSpecFlow.csproj" />
+    <ProjectReference Include="..\CsvReader\CsvReader.csproj" />
+    <ProjectReference Include="..\SqlData\SqlRetrieve.core\SqlRetrieve.core.csproj" />
+    <ProjectReference Include="..\SqlData\SqlRetrieve.Tests\SqlRetrieve.Tests.csproj" />
+	<None Update="settings.json">
+	  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </None>  
+	  
+	  <None Update="data\sample.csv">
+	  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	</None>
+	</ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="9.0.5" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
