@@ -1648,11 +1648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\STUTTAGU\\OneDrive - Capgemini\\Desktop\\Master\\SqlData\\SqlRetrieve.Core\\SqlRetrieve.core.csproj",
+      "projectUniqueName": "C:\\Users\\STUTTAGU\\OneDrive - Capgemini\\Desktop\\Master\\SqlData\\SqlRetrieve.core\\SqlRetrieve.core.csproj",
       "projectName": "SqlRetrieve.core",
-      "projectPath": "C:\\Users\\STUTTAGU\\OneDrive - Capgemini\\Desktop\\Master\\SqlData\\SqlRetrieve.Core\\SqlRetrieve.core.csproj",
+      "projectPath": "C:\\Users\\STUTTAGU\\OneDrive - Capgemini\\Desktop\\Master\\SqlData\\SqlRetrieve.core\\SqlRetrieve.core.csproj",
       "packagesPath": "C:\\Users\\STUTTAGU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\STUTTAGU\\OneDrive - Capgemini\\Desktop\\Master\\SqlData\\SqlRetrieve.Core\\obj\\",
+      "outputPath": "C:\\Users\\STUTTAGU\\OneDrive - Capgemini\\Desktop\\Master\\SqlData\\SqlRetrieve.core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\STUTTAGU\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1706,7 +1706,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

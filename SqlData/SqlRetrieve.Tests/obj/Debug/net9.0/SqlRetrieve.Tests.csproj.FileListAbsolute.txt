@@ -157,3 +157,4 @@ C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.Tests\
 C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.Tests\obj\Debug\net9.0\SqlRetrieve.Tests.genruntimeconfig.cache
 C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.Tests\obj\Debug\net9.0\ref\SqlRetrieve.Tests.dll
 C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.Tests\bin\Debug\net9.0\settings.json
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.Tests\obj\Debug\net9.0\SqlRetrieve.Tests.sourcelink.json

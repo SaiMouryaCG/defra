@@ -109,3 +109,4 @@ C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\CalculatorSpecFlow\obj\Deb
 C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\CalculatorSpecFlow\obj\Debug\net8.0\CalculatorSpecFlow.genruntimeconfig.cache
 C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\CalculatorSpecFlow\obj\Debug\net8.0\ref\CalculatorSpecFlow.dll
 C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\CalculatorSpecFlow\bin\Debug\net8.0\settings.json
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\CalculatorSpecFlow\obj\Debug\net8.0\CalculatorSpecFlow.sourcelink.json

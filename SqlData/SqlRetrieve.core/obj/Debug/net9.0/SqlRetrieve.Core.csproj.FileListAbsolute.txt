@@ -10,3 +10,4 @@ C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.Core\o
 C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.Core\obj\Debug\net9.0\refint\SqlRetrieve.Core.dll
 C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.Core\obj\Debug\net9.0\SqlRetrieve.Core.pdb
 C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.Core\obj\Debug\net9.0\ref\SqlRetrieve.Core.dll
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\SqlData\SqlRetrieve.core\obj\Debug\net9.0\SqlRetrieve.core.sourcelink.json

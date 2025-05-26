@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SqlRetrieve.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dff72ccea07adb1360a88761c0727ffc6ce1b385")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07af70d450ec080573033a23b0474ef242dfa1e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SqlRetrieve.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SqlRetrieve.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

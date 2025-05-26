@@ -2120,17 +2120,17 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "SqlRetrieve.Core/1.0.0": {
+      "SqlRetrieve.core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "Microsoft.Data.SqlClient": "6.0.2"
         },
         "compile": {
-          "bin/placeholder/SqlRetrieve.Core.dll": {}
+          "bin/placeholder/SqlRetrieve.core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SqlRetrieve.Core.dll": {}
+          "bin/placeholder/SqlRetrieve.core.dll": {}
         }
       }
     }
@@ -6545,10 +6545,10 @@
         "version.txt"
       ]
     },
-    "SqlRetrieve.Core/1.0.0": {
+    "SqlRetrieve.core/1.0.0": {
       "type": "project",
-      "path": "../SqlRetrieve.Core/SqlRetrieve.Core.csproj",
-      "msbuildProject": "../SqlRetrieve.Core/SqlRetrieve.Core.csproj"
+      "path": "../SqlRetrieve.core/SqlRetrieve.core.csproj",
+      "msbuildProject": "../SqlRetrieve.core/SqlRetrieve.core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6561,7 +6561,7 @@
       "Newtonsoft.Json >= 13.0.3",
       "SpecFlow.Nunit >= 3.9.74",
       "SpecFlow.Tools.MsBuild.Generation >= 3.9.74",
-      "SqlRetrieve.Core >= 1.0.0",
+      "SqlRetrieve.core >= 1.0.0",
       "coverlet.collector >= 6.0.2"
     ]
   },
@@ -6590,8 +6590,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\STUTTAGU\\OneDrive - Capgemini\\Desktop\\Master\\SqlData\\SqlRetrieve.Core\\SqlRetrieve.Core.csproj": {
-              "projectPath": "C:\\Users\\STUTTAGU\\OneDrive - Capgemini\\Desktop\\Master\\SqlData\\SqlRetrieve.Core\\SqlRetrieve.Core.csproj"
+            "C:\\Users\\STUTTAGU\\OneDrive - Capgemini\\Desktop\\Master\\SqlData\\SqlRetrieve.core\\SqlRetrieve.core.csproj": {
+              "projectPath": "C:\\Users\\STUTTAGU\\OneDrive - Capgemini\\Desktop\\Master\\SqlData\\SqlRetrieve.core\\SqlRetrieve.core.csproj"
             }
           }
         }
@@ -6665,7 +6665,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

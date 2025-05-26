@@ -41,3 +41,4 @@ C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\CSVReader\obj\Debug\net8.0
 C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\CSVReader\obj\Debug\net8.0\CsvReader.pdb
 C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\CSVReader\obj\Debug\net8.0\CsvReader.genruntimeconfig.cache
 C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\CSVReader\obj\Debug\net8.0\ref\CsvReader.dll
+C:\Users\STUTTAGU\OneDrive - Capgemini\Desktop\Master\CsvReader\obj\Debug\net8.0\CsvReader.sourcelink.json

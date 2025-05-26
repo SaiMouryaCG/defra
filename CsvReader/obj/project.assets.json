@@ -5273,11 +5273,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\STUTTAGU\\OneDrive - Capgemini\\Desktop\\Master\\CSVReader\\CsvReader.csproj",
+      "projectUniqueName": "C:\\Users\\STUTTAGU\\OneDrive - Capgemini\\Desktop\\Master\\CsvReader\\CsvReader.csproj",
       "projectName": "CsvReader",
-      "projectPath": "C:\\Users\\STUTTAGU\\OneDrive - Capgemini\\Desktop\\Master\\CSVReader\\CsvReader.csproj",
+      "projectPath": "C:\\Users\\STUTTAGU\\OneDrive - Capgemini\\Desktop\\Master\\CsvReader\\CsvReader.csproj",
       "packagesPath": "C:\\Users\\STUTTAGU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\STUTTAGU\\OneDrive - Capgemini\\Desktop\\Master\\CSVReader\\obj\\",
+      "outputPath": "C:\\Users\\STUTTAGU\\OneDrive - Capgemini\\Desktop\\Master\\CsvReader\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\STUTTAGU\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5353,19 +5353,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.15, 8.0.15]"
+            "version": "[8.0.16, 8.0.16]"
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[8.0.15, 8.0.15]"
+            "version": "[8.0.16, 8.0.16]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.15, 8.0.15]"
+            "version": "[8.0.16, 8.0.16]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.15, 8.0.15]"
+            "version": "[8.0.16, 8.0.16]"
           }
         ],
         "frameworkReferences": {
@@ -5373,7 +5373,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
