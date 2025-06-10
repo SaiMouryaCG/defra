@@ -1,0 +1,6 @@
+@MyAdfTriggerApp_HostAddress = http://localhost:5263
+
+GET {{MyAdfTriggerApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MyAdfTriggerApp.Specs/1.0.0": {
+        "runtime": {
+          "MyAdfTriggerApp.Specs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyAdfTriggerApp.Specs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
